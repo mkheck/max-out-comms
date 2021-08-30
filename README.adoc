@@ -1,0 +1,16 @@
+= Max Out your Communications: How to connect your Spring Boot apps quickly, powerfully, & efficiently
+
+Parent repository to accompany session
+
+== Component repos
+
+* link:https://github.com/mkheck/planefinder[PlaneFinder data feeder (generates sample data if no device present)]
+* link:https://github.com/mkheck/thing1[Thing1 (PF RSocket client, RSocket server for downstream services)]
+* link:https://github.com/mkheck/thing2[Thing2 (RSocket client, feeder via messaging platforms)]
+* link:https://github.com/mkheck/thing3[Thing3 (Consumer via messaging platforms)]
+
+== Contact information
+
+* Mark Heckler
+* link:https://twitter.com/mkheck[@mkheck]
+* link:mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
