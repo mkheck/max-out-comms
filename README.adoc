@@ -5,9 +5,9 @@ Parent repository to accompany session
 == Component repos
 
 * link:https://github.com/mkheck/planefinder[PlaneFinder data feeder (generates sample data if no device present)]
-* link:https://github.com/mkheck/thing1[Thing1 (PF RSocket client, RSocket server for downstream services)]
-* link:https://github.com/mkheck/thing2[Thing2 (RSocket client, feeder via messaging platforms)]
-* link:https://github.com/mkheck/thing3[Thing3 (Consumer via messaging platforms)]
+* link:https://github.com/mkheck/sbd-thing1[Thing1 (PF RSocket client, RSocket server for downstream services)]
+* link:https://github.com/mkheck/sbd-thing2[Thing2 (RSocket client, feeder via messaging platforms)]
+* link:https://github.com/mkheck/sbd-thing3[Thing3 (Consumer via messaging platforms)]
 
 == Contact information
 
